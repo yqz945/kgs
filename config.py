@@ -1,0 +1,6 @@
+SQLITE_DB = './data/kg.db'
+
+NEO4J_HOST = "127.0.0.1"
+NEO4J_PORT = 7687
+NEO4J_USER = "neo4j"
+NEO4J_PASSWORD = "test"
